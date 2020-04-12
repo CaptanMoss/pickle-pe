@@ -38,7 +38,7 @@ int __cdecl main(int argc, const char* argv[])
 			{
 				help();
 			}
-			else if (!strcmp(param, VERSION) && control == 0) //exe olup olmadýðýný kontrol et
+			else if (!strcmp(param, VERSION) && control == 0) 
 			{
 				version();
 			}
