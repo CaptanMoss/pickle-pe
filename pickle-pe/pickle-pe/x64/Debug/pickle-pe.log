@@ -1,0 +1,44 @@
+﻿  Source.c
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(366,11): warning C4477: 'printf_s' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'WORD *'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(366,11): warning C4313: 'printf_s': '%X' in format string conflicts with argument 1 of type 'WORD *'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(367,11): warning C4477: 'printf_s' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'WORD *'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(367,11): warning C4313: 'printf_s': '%X' in format string conflicts with argument 1 of type 'WORD *'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(427,80): error C2039: 'BaseOfData': is not a member of '_IMAGE_OPTIONAL_HEADER64'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(16935): message : see declaration of '_IMAGE_OPTIONAL_HEADER64'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(427,11): warning C4477: 'printf_s' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'char *'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(427,11): warning C4313: 'printf_s': '%X' in format string conflicts with argument 1 of type 'char *'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(427,11): warning C4473: 'printf_s' : not enough arguments passed for format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(427,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(427,11): message : the missing variadic argument 2 is required by format string '%15s'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(430,11): warning C4477: 'printf_s' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'ULONGLONG'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(430,11): message : consider using '%llX' in the format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(430,11): message : consider using '%IX' in the format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(430,11): message : consider using '%I64X' in the format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(441,11): warning C4477: 'printf_s' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'ULONGLONG'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(441,11): message : consider using '%llX' in the format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(441,11): message : consider using '%IX' in the format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(441,11): message : consider using '%I64X' in the format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(442,11): warning C4477: 'printf_s' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'ULONGLONG'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(442,11): message : consider using '%llX' in the format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(442,11): message : consider using '%IX' in the format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(442,11): message : consider using '%I64X' in the format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(445,11): warning C4477: 'printf_s' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'ULONGLONG'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(445,11): message : consider using '%llX' in the format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(445,11): message : consider using '%IX' in the format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(445,11): message : consider using '%I64X' in the format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(446,11): warning C4477: 'printf_s' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'ULONGLONG'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(446,11): message : consider using '%llX' in the format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(446,11): message : consider using '%IX' in the format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(446,11): message : consider using '%I64X' in the format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(464,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'PIMAGE_DATA_DIRECTORY'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(465,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'PIMAGE_DOS_HEADER'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(490,12): warning C4477: 'printf_s' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 2 has type 'PIMAGE_THUNK_DATA'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(490,12): warning C4313: 'printf_s': '%X' in format string conflicts with argument 2 of type 'PIMAGE_THUNK_DATA'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(490,12): warning C4477: 'printf_s' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 3 has type 'PIMAGE_THUNK_DATA'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(490,12): warning C4313: 'printf_s': '%X' in format string conflicts with argument 3 of type 'PIMAGE_THUNK_DATA'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(495,13): warning C4477: 'printf_s' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 2 has type 'ULONGLONG'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(495,13): message : consider using '%llX' in the format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(495,13): message : consider using '%IX' in the format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(495,13): message : consider using '%I64X' in the format string
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(540,28): warning C4090: 'function': different 'const' qualifiers
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(541,21): warning C4090: 'function': different 'const' qualifiers

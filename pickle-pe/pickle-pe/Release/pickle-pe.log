@@ -1,0 +1,14 @@
+﻿  Source.c
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(366,11): warning C4477: 'printf_s' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'WORD *'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(367,11): warning C4477: 'printf_s' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'WORD *'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(464,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'PIMAGE_DATA_DIRECTORY'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(465,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'PIMAGE_DOS_HEADER'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(490,12): warning C4477: 'printf_s' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 2 has type 'PIMAGE_THUNK_DATA'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(490,12): warning C4477: 'printf_s' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 3 has type 'PIMAGE_THUNK_DATA'
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(540,28): warning C4090: 'function': different 'const' qualifiers
+C:\Users\busra.yenidogan\Desktop\pickle-pe\pickle-pe\Source.c(541,21): warning C4090: 'function': different 'const' qualifiers
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 26 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  pickle-pe.vcxproj -> C:\Users\busra.yenidogan\Desktop\pickle-pe\Release\pickle-pe.exe
