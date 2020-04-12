@@ -1,5 +1,5 @@
 # pickle-pe
-Usage : pickle-pe.exe <<file.exe>> -parameter
+Usage : pickle-pe.exe <file.exe> -parameter
 
 
 -fi --File Information  
