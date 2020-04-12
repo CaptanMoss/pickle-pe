@@ -1,6 +1,7 @@
 # pickle-pe
 
 -fi --File Information
+
 -sh --Section Header
 -ih --Image File Header
 -dh --Dos Header
