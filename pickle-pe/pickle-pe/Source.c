@@ -95,7 +95,7 @@ int __cdecl main(int argc, const char* argv[])
 		}
 	}
 
-	return 0x0;
+	return 0x1;
 }
 
 void mapping()
