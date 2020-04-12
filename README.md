@@ -1,4 +1,6 @@
 # pickle-pe
+Usage : pickle-pe.exe <file name> -parameter
+
 
 -fi --File Information  
 -sh --Section Header  
